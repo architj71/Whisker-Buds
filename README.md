@@ -4,7 +4,6 @@
 
 > _"Bringing Love Home, Smarter."_ 🏡❤️
 
----
 
 ## 🎯 Features
 
@@ -13,7 +12,6 @@
 - 🏠 **Shelter Management** – Register and manage shelter pets.
 - 💖 **Donations** – Support animal shelters via GPay.
 
----
 
 ## 🛠 Tech Stack
 
@@ -23,7 +21,6 @@
 - **Payments**: GPay API
 - **Hosting**: Render.com
 
----
 
 ## 📱 How It Works
 
@@ -43,7 +40,6 @@
     - Adopters can find and contact local vets easily via the app.
     - Vets register their services to support pet owners.
 
----
 
 ## 👤 About the Developer
 
@@ -52,7 +48,6 @@ Hi, I’m **Archit Jain**, a passionate developer from IIIT Kota with a vision t
 
 🔗 [GitHub](https://github.com/architj71)
 
----
 
 **Thank you for supporting Whisker Buds!**  
 Together, we can create a better world for our furry companions. 
