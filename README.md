@@ -1,4 +1,4 @@
-# 🐾 Whisker Buds
+# 🐕 Whisker Buds
 
 **Whisker Buds** is a smart pet adoption app designed to connect loving families with animals in need. Whether you're looking to adopt, donate, or register a pet or shelter, Whisker Buds makes it easy, compassionate, and effective.
 
