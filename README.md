@@ -18,6 +18,7 @@
 - **Frontend**: Kotlin + Jetpack Compose (MVVM)
 - **Backend**: NodeJS + MongoDB (Soon)
 - **Services**: Firebase, Cloudinary, Retrofit
+- **ML**: TensorFlow Lite *(On-device breed/type detection)*
 - **Payments**: GPay API
 - **Hosting**: Render.com
 
