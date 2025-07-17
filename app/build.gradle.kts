@@ -121,6 +121,9 @@ dependencies {
     // JSON Serialization (Only if using Kotlin serialization for navigation arguments)
     implementation(libs.kotlinx.serialization.json)
 
+    implementation("org.tensorflow:tensorflow-lite:2.13.0")
+
+
 //Glide
 //    implementation ("com.github.bumptech.glide:glide:4.12.0")
 //    annotationProcessor ("com.github.bumptech.glide:compiler:4.12.0")
