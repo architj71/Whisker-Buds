@@ -28,6 +28,7 @@ object TFLiteHelper {
         val label = labels[topIdx]
         val confidence = output[0][topIdx] * 100
 
+        // Keywords to detect general pet type
         val dogKeywords = listOf(
             "retriever", "terrier", "spaniel", "bulldog", "shepherd", "poodle",
             "pug", "husky", "chihuahua", "boxer", "mastiff", "shih-tzu", "pinscher",
